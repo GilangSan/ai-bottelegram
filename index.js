@@ -1,5 +1,5 @@
 const telegramBot = require('node-telegram-bot-api')
-const token = process.env.TOKEN || '6540760864:AAGaSYsP5U903vlqKfXyPmhNXMwocT5Nlrk'
+const token = process.env.TOKEN || 'YOUR TOKEN'
 const options = {
   polling: true
 }
